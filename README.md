@@ -2,7 +2,7 @@
 
 This project explores global trends on YouTube using publicly available data. By analyzing key statistics such as views, likes, comments, and category performance, the study highlights user engagement patterns and content popularity.
 
-Key Features
+#Key Features
 
 Dataset: Analyzed large-scale YouTube data, including videos, views, likes, and categories.
 
@@ -12,7 +12,7 @@ Visualization: Created interactive charts and graphs for better insights.
 
 Tools Used: Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook.
 
-Outcomes
+#Outcomes
 
 Insights into audience preferences across categories like entertainment, education, and music.
 
