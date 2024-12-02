@@ -10,7 +10,7 @@ Analysis: Identified trends such as top-performing categories, factors influenci
 
 Visualization: Created interactive charts and graphs for better insights.
 
-Tools Used: Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook.
+Tools Used: Python (Pandas, Matplotlib, Seaborn), Spyder Notebook.
 
 #Outcomes
 
